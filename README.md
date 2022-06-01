@@ -55,8 +55,8 @@ November 2012 to February 2017
 
 Was directly involved in the development and maintenance of the organization's internal accounting systems, as a member of a development team. Performed the refinement of existing solutions and the development of new ones, created new reports, processing according to technical specifications. Advised users. Wrote queries, stored procedures SQL. Analyzed and solved performance problems. Testing. Developed user interfaces. Wrote web services. Developed independently and took part in the development of integration mechanisms between systems.
 
-## **EDUCATION **
-Tomsk State University of Architecture and Building (TSUAB)
+## **EDUCATION**
+**Tomsk State University of Architecture and Building (TSUAB)**
 
 Master’s Degree 2005
 
