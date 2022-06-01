@@ -15,15 +15,15 @@ DB (design, implementation, query language...).
 
 ### **HIGHLIGHTS OF QUALIFICATION**
 
--   Rubyprogramming.RubyonRailsframework.
+-   Ruby programming. Ruby on Rails framework.
     
--   Understandingofobject-orientedprogrammingandMVC.
+-   Understanding of object-oriented programming and MVC.
     
--   ExperienceindesigningandwritingofwebapplicationsusingRuby on Rails and related technologies such as various Ruby gems, HTML, CSS, JS.
+-   Experience in designing and writing of web applications using Ruby on Rails and related technologies such as various Ruby gems, HTML, CSS, JS.
     
 -   DB skills (SQL, ORM, queries)
     
--   Debugging,analytical,problemsolving,andinterpersonalskills
+-   Debugging, analytical, problemsolving, and interpersonal skills
 
     
 ## **PROFESSIONAL EXPERIENCE**
