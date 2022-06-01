@@ -7,11 +7,7 @@
 
 Over 9 years of experience in full life cycle of the Software
 
-Development Process (business apps). More than six months experience in
-
-the Ruby on Rails based web applications development. Experience in the
-
-DB (design, implementation, query language...).
+Development Process (business apps). More than six months experience in the Ruby on Rails based web applications development. Experience in the DB (design, implementation, query language...).
 
 ### **HIGHLIGHTS OF QUALIFICATION**
 
