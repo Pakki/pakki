@@ -1,6 +1,4 @@
-<--! [Download as PDF](https://github.com/Pakki/pakki/blob/main/Andrei%20Pakki%20software%20developer.pdf "download")
--->
-<a id="raw-url" href="https://github.com/Pakki/pakki/blob/main/Andrei%20Pakki%20software%20developer.pdf">Download as PDF</a>
+[Download as PDF](https://github.com/Pakki/pakki/blob/main/Andrei%20Pakki%20software%20developer.pdf "download")
 
 ## Andrei Pakki
 
