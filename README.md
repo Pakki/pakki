@@ -21,14 +21,14 @@ Over 9 years of experience in full life cycle of the Software Development Proces
 
 ### Software engineer
 
-Matritca LLC
+[Matritca LLC](http://matritca.ru/)
 December 2020 to May 2021
 
 Business apps development, accounting system support. Integrations with DBs, web services. Testing. Working with commercial equipment (barcode scanners, label printers). Implemented a vehicle accounting system at the enterprise.
 
 ### Software developer
 
-RESO-Leasing LLC  
+[RESO-Leasing LLC](https://resoleasing.com)  
 April 2018 to September 2020
 
 Business apps development. Analysis and automation of business processes in the organization. Writing reports. Integrations with DBs, web services. Analyze system performance and eliminate bottlenecks. Development documentation. Testing. Implemented the process of verification of transaction documents. Implemented automation of creating documents in the accounting system.
@@ -41,7 +41,7 @@ Refinement of the configuration, creation of reports and processing of the organ
 
 ### Software developer
 
-Taxcom LLC
+[Taxcom LLC](https://taxcom.ru)
 November 2012 to February 2017
 
 Was directly involved in the development and maintenance of the organization's internal accounting systems, as a member of a development team. Performed the refinement of existing solutions and the development of new ones, created new reports, processing according to technical specifications. Advised users. Wrote queries, stored procedures SQL. Analyzed and solved performance problems. Testing. Developed user interfaces. Wrote web services. Developed independently and took part in the development of integration mechanisms between systems.
